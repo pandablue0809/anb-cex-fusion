@@ -19,7 +19,7 @@ ANB CEX Fusion is a custom Centralized Exchange (CEX) platform that integrates s
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hammadali5727/anb-cex-fusion.git
+   git clone https://github.com/pandablue0809/anb-cex-fusion.git
    cd anb-cex-fusion
    ```
 
@@ -47,6 +47,3 @@ We welcome contributions to ANB CEX Fusion! Please follow these steps:
 3. Make your changes and commit them (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
-
-## Contact
-For inquiries, please contact the development team at [hammad.ali@anbtech.org].
